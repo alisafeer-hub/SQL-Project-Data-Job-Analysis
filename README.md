@@ -84,6 +84,8 @@ LIMIT 10;
 
 Joined the top-paying job results with the skills data to reveal which technical skills appear most frequently among high-salary postings. This shows what employers *actually* expect at the top of the pay scale.
 
+![Skills for Top-Paying jobs](/assets/Code_Generated_Image.png)
+
 **Finding:** High-paying roles consistently require advanced proficiency in **SQL**, followed by Python, Tableau, and cloud tools.
 
 ---
